@@ -1,0 +1,35 @@
+
+
+@media (max-width: 480px) {
+
+header .menu{
+    justify-content: space-around;
+}
+
+.slick-track{
+    width: 66%;
+}
+ .service-text-1 {
+    width: 100%;
+}
+.service-block {
+    width: 100%;
+}
+.block-inside-1 {
+    width: 80%;
+}
+
+.works {
+    min-height: auto;
+}
+   
+
+.work-photo {
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 50px auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+}    
